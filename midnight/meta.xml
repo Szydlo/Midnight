@@ -1,0 +1,14 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="oop/async.lua" type="shared"/>
+    <script src="oop/classlib.lua" type="shared"/>
+    <script src="oop/ooplib.lua" type="shared"/>
+
+    <script src="core/database.lua"/>
+    <script src="core/core.lua"/>
+    <script src="core/player.lua"/>
+
+    <script src="auth/auth_c.lua" type="client"/>
+    <script src="auth/auth.lua"/>
+</meta>
