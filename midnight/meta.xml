@@ -5,6 +5,7 @@
     <script src="oop/classlib.lua" type="shared"/>
     <script src="oop/ooplib.lua" type="shared"/>
 
+    <script src="core/config.lua"/>
     <script src="core/database.lua"/>
     <script src="core/core.lua"/>
     <script src="core/player.lua"/>
