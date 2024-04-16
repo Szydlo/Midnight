@@ -7,6 +7,7 @@ Config = {
     },
     
     gamemode = {
-        devMode = true -- TURN IT OFF IN RELEASE!
+        version = "0.1.0",
+        devMode = true, -- TURN IT OFF IN RELEASE!
     },
 }

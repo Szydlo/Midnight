@@ -18,7 +18,7 @@ function loginAccount(login, pass, plr)
 
         player.identity = query[1].identity
 
-        spawnPlayer(player, 0, 0, 3)
+        spawnPlayer(player, 816.01855, -1340.13916, 13.5293)
         setCameraTarget(player)
 
         if Config.gamemode.devMode then

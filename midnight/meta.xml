@@ -6,10 +6,16 @@
     <script src="oop/ooplib.lua" type="shared"/>
 
     <script src="core/config.lua"/>
+    <script src="core/utils.lua"/>
     <script src="core/database.lua"/>
     <script src="core/core.lua"/>
     <script src="core/player.lua"/>
 
     <script src="auth/auth_c.lua" type="client"/>
     <script src="auth/auth.lua"/>
+
+    <script src="interiors/utils.lua"/>
+    <script src="interiors/door.lua"/>
+    <script src="interiors/interior.lua"/>
+    <script src="interiors/interiors.lua"/>
 </meta>
