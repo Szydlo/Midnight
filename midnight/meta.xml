@@ -21,4 +21,8 @@
 
     <script src="vehicles/vehicle.lua"/>
     <script src="vehicles/vehicles.lua"/>
+
+    <script src="inventory/item.lua"/>
+    <script src="inventory/items.lua"/>
+    <script src="inventory/inventory.lua"/>
 </meta>
