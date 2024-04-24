@@ -18,4 +18,7 @@
     <script src="interiors/door.lua"/>
     <script src="interiors/interior.lua"/>
     <script src="interiors/interiors.lua"/>
+
+    <script src="vehicles/vehicle.lua"/>
+    <script src="vehicles/vehicles.lua"/>
 </meta>
