@@ -17,6 +17,7 @@ function loginAccount(login, pass, plr)
         core.database:query("UPDATE mn_users SET inGame = '1' WHERE login = ?", login)
 
         player.identity = query[1].identity
+        player:loadData()
 
         spawnPlayer(player, 816.01855, -1340.13916, 13.5293)
         setCameraTarget(player)

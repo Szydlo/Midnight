@@ -1,4 +1,3 @@
-ItemTypes = {}
 local items = {}
 
 function loadItemTypes()

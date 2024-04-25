@@ -6,6 +6,7 @@
     <script src="oop/ooplib.lua" type="shared"/>
 
     <script src="core/config.lua"/>
+    <script src="core/globalVars.lua"/>
     <script src="core/utils.lua"/>
     <script src="core/database.lua"/>
     <script src="core/core.lua"/>
@@ -22,7 +23,10 @@
     <script src="vehicles/vehicle.lua"/>
     <script src="vehicles/vehicles.lua"/>
 
-    <script src="inventory/item.lua"/>
+    <script src="inventory/item.lua" type="shared"/>
     <script src="inventory/items.lua"/>
     <script src="inventory/inventory.lua"/>
+
+    <script src="inventory/playerInventory.lua"/>
+    <script src="inventory/playerInventory_c.lua" type="client"/>
 </meta>
